@@ -26,27 +26,24 @@ Benefits:
 • Reduced supply chain inefficiencies.
 
 ## Proposed Solution
-Remove These Lines
-1. Detailed explanation of the proposed solution
-2. How it addresses the problem
-3. Innovation and uniqueness of the solution
+What it is: A direct farm-to-buyer mobile and web app connecting farmers/FPOs with households and bulk buyers, complete with local pickup and delivery.
+
+How it works: Cuts out middlemen by showing live fair prices, taking direct orders, and assigning shared local transport.
+
+Uniqueness: Regional voice listing for farmers, AI demand forecasting, and smart route pooling that combines nearby farm pickups into one truck.
 
 ## Technical Approach
-Remove These Lines
-1. Technologies to be used (e.g. programming languages, frameworks, hardware)
-2. Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b>
+Tech Stack: Flutter (mobile app), React.js (web), Python FastAPI / Node.js (backend), PostgreSQL (database), Scikit-learn (demand AI), Google Maps API (route optimization), and UPI API (instant payments).
 
 ## Feasibility and Viability
-Remove These Lines
-1. Analysis of the feasibility of the idea
-2. Potential challenges and risks
-3. Strategies for overcoming these challenges
+Feasibility: Uses open-source tech, UPI, and existing local mini-trucks—zero warehouse or fleet purchase needed.
+
+Challenges & Fixes: Low digital literacy/weak internet -> voice UI, offline mode, and FPO helper support; crop spoilage -> priority express routing for perishable items.
 
 ## Impact and Benefits
-Remove These Lines
-1. Potential impact on the target audience
-2. Benefits of the solution (social, economic, environmental, etc.)
+Target Audience: Farmers earn more per harvest; consumers and bulk buyers get fresher produce at lower prices.
+
+Benefits: Economic (instant, commission-free bank payouts), Social (empowers small farmers/FPOs), and Environmental (fewer truck trips, less fuel burn, reduced food waste)
 
 ## Research and References
-Remove These Lines
-1. Details / Links of the reference and research work
+https://consumeraffairs.nic.in/
